@@ -1,0 +1,2 @@
+# ghsearch
+GitHub search utility.
